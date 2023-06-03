@@ -1,0 +1,10 @@
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# PS4コントローラー対応
+.vs/
+Binaries/
+
+# 下記アセットはGit管理しない
+Content/Sunset/Maps
